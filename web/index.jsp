@@ -50,7 +50,8 @@
                                         %>
                                         
                                         <center><h4><% out.print(msg); %></h4></center>
-                                        <center><img src="img/<%out.print(msg);}%>.png" width=100 height=100></center>
+                                        <center><img src="img/<%out.print(msg);%>.png" width=100 height=100></center>
+                                    <% } %>
                                     </div>
                                 </div>
                             </div>
